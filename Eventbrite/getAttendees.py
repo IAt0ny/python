@@ -1,6 +1,6 @@
 from requests import session
 
-OAuth = 'RXK2MITITUROVA2KII5A'
+#e_id means event_id
 e_id = '20799626242'
 
 url_prefix = 'https://www.eventbriteapi.com/v3/'

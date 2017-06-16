@@ -1,0 +1,50 @@
+table {
+    border-collapse: collapse;
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+    background-color: #0862a2;
+    color: white;
+}
+h1 {
+	color: #0862a2;
+	font-family: 'Squada One';
+	font-size: 72px;
+	line-height: 50px;
+	margin-bottom: 30px;
+}
+
+h1:before {
+	background: #0862a2;
+	content: '';
+	display: block;
+	height: 12px;
+	margin-bottom: 30px;
+	width: 76px;
+}
+
+p {
+	color: #574432;
+	font-family: 'Libre Baskerville';
+	font-size: 15px;
+	line-height: 25px;
+	margin-bottom: 36px;
+	margin-left: 55%;
+}
+
+a {
+	color: #ec7309;	font-style: italic;
+}
+
+a:hover {
+	color: #cc141c;
+}

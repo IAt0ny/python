@@ -50,3 +50,7 @@ a {
 a:hover {
 	color: #cc141c;
 }
+
+pre {
+	color: #0862a2;
+}

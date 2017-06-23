@@ -53,3 +53,6 @@ a:hover {
 pre {
 	color: #0862a2;
 }
+td {
+	valign: top;
+}
